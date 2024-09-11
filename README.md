@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi there! I'm a passionate software engineer focused on mobile development, aspiring to become a Full Stack Mobile Engineer. With over 13 years of experience across various roles, I excel in creating scalable, efficient, and impactful software solutions.<br><br>📱 Mobile Development Focus:<br><br>Dedicated to building seamless and engaging mobile applications on iOS and Android.<br>Skilled in both frontend and backend development, integrating robust solutions into mobile platforms.<br>Continuously learning and adapting to the latest trends in mobile technologies.<br>🔧 Technical Skills:<br><br>Proficient in mobile development and backend frameworks like Spring Boot and RESTful APIs.<br>Experienced in cloud-native and distributed system architectures.<br>Always eager to experiment with new tools and technologies to enhance software performance.<br>🎯 Current Goals:<br><br>Mastering full-stack mobile development for comprehensive end-to-end solutions.<br>Diving deep into cross-platform and native mobile development strategies.<br>Actively contributing to open-source communities and learning from fellow developers.<br>📸 Creative Interests:<br><br>Avid photographer and videographer, capturing stories through the lens.<br>Enjoy blending technical skills with creativity in multimedia projects.<br>📰 Lifelong Learner:<br><br>Passionate about reading technical articles and staying updated on industry advancements.<br>Constantly exploring new technologies, tools, and best practices to stay ahead of the curve.<br>In my spare time, I balance creative pursuits, fitness routines, and setting SMART goals to achieve personal and professional growth.<br><br>
 
-<!--
-**crisnguyenvn/crisnguyenvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhvu2889) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anhvu2889) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=crisnguyenvn&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=crisnguyenvn&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crisnguyenvn&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=crisnguyenvn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=crisnguyenvn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
