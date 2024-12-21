@@ -17,6 +17,7 @@ I am a **Mobile Software Engineer** with over **12 years of experience** in deli
 ## 📸 Creative Interests
 - Avid **photographer and videographer**, capturing stories through the lens.
 - Enjoy blending **technical skills with creativity** in multimedia projects.
+- Love cooking and experimenting with new dishes to share with family.
 
 ## 📰 Lifelong Learner
 - Passionate about **reading technical articles** and staying updated on industry advancements.
