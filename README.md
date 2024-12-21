@@ -1,11 +1,38 @@
-# 💫 About Me:
-👋 Hi there! I'm a passionate software engineer focused on mobile development, aspiring to become a Full Stack Mobile Engineer. With over 13 years of experience across various roles, I excel in creating scalable, efficient, and impactful software solutions.<br><br>📱 Mobile Development Focus:<br><br>Dedicated to building seamless and engaging mobile applications on iOS and Android.<br>Skilled in both frontend and backend development, integrating robust solutions into mobile platforms.<br>Continuously learning and adapting to the latest trends in mobile technologies.<br><br>🔧 Technical Skills:<br><br>Proficient in mobile development and backend frameworks like Spring Boot and RESTful APIs.<br>Experienced in cloud-native and distributed system architectures.<br>Always eager to experiment with new tools and technologies to enhance software performance.<br><br>🎯 Current Goals:<br><br>Mastering full-stack mobile development for comprehensive end-to-end solutions.<br>Diving deep into cross-platform and native mobile development strategies.<br>Actively contributing to open-source communities and learning from fellow developers.<br><br>📸 Creative Interests:<br><br>Avid photographer and videographer, capturing stories through the lens.<br>Enjoy blending technical skills with creativity in multimedia projects.<br><br>📰 Lifelong Learner:<br><br>Passionate about reading technical articles and staying updated on industry advancements.<br>Constantly exploring new technologies, tools, and best practices to stay ahead of the curve.<br>In my spare time, I balance creative pursuits, fitness routines, and setting SMART goals to achieve personal and professional growth.<br><br>
+# Hi there! 👋 I'm Vu Nguyen
 
+## 🚀 About Me
+I am a **Mobile Software Engineer** with over **12 years of experience** in delivering high-performance solutions across industries like **banking, fintech, media, healthcare, and e-commerce**. Passionate about building scalable, secure, and user-centric applications with modern architectures and best practices.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anhvu2889) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anhvu2889) 
+- 💻 Expert in **iOS (Swift)** and **Android (Kotlin, Java)** development.
+- 🌐 Experienced with **web service development** using **RESTful APIs** and backend frameworks like **Spring Boot**.
+- 🌟 Skilled in **Clean Architecture, Modular Architecture, and Agile methodologies**.
+- 🔧 Proficient in **problem-solving, CI/CD, performance optimization, and security**.
+- 🛠️ Experienced in building and leading teams to develop products from scratch, mentoring and coaching junior developers, and fostering a collaborative environment in global, distributed teams.
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🎯 Current Goals
+- Mastering **full-stack mobile development** for comprehensive end-to-end solutions.
+- Diving deep into **cross-platform and native mobile development strategies**.
+- Actively contributing to **open-source communities** and learning from fellow developers.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📸 Creative Interests
+- Avid **photographer and videographer**, capturing stories through the lens.
+- Enjoy blending **technical skills with creativity** in multimedia projects.
+
+## 📰 Lifelong Learner
+- Passionate about **reading technical articles** and staying updated on industry advancements.
+- Constantly exploring **new technologies, tools, and best practices** to stay ahead of the curve.
+- In my spare time, I balance **creative pursuits, fitness routines**, and setting **SMART goals** to achieve personal and professional growth.
+
+## 🎓 Education
+- **Master of Science in Computer Science** 
+  Maharishi International University, Iowa
+- **Bachelor of Science in Computer Science**
+  University of Science VNUHCM, Vietnam
+
+## 📫 Contact Me
+- 📧 Email: [anhvu2889@gmail.com](mailto:anhvu2889@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/anhvu2889](https://www.linkedin.com/in/anhvu2889/)
+
+## ⚡ Fun Fact
+I enjoy mentoring developers, solving complex problems, and exploring new frameworks and tools to build better apps!
+
