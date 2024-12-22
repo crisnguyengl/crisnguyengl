@@ -5,9 +5,9 @@ I am a **Mobile Software Engineer** with over **12 years of experience** in deli
 
 - 💻 Expert in **iOS (Swift)** and **Android (Kotlin, Java)** development.
 - 🌐 Experienced with **web service development** using **RESTful APIs** and backend frameworks like **Spring Boot**.
-- 🌟 Skilled in **Clean Architecture, Modular Architecture, and Agile methodologies**.
+- 🌟 Skilled in **Clean Architecture, Modular Architecture**.
 - 🔧 Proficient in **problem-solving, CI/CD, performance optimization, and security**.
-- 🛠️ Experienced in building and leading teams to develop products from scratch, mentoring and coaching junior developers, and fostering a collaborative environment in global, distributed teams.
+- 🛠️ Experienced in building and leading Agile teams to develop products from scratch, mentoring and coaching junior developers, and fostering a collaborative environment in global, distributed teams.
 
 ## 🎯 Current Goals
 - Mastering **full-stack mobile development** for comprehensive end-to-end solutions.
