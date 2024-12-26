@@ -7,17 +7,17 @@ I am a **Mobile Software Engineer** with over **12 years of experience** in deli
 - 🌐 Experienced with **web service development** using **RESTful APIs** and backend frameworks like **Spring Boot**.
 - 🌟 Skilled in **Clean Architecture, Modular Architecture**.
 - 🔧 Proficient in **problem-solving, CI/CD, performance optimization, and security**.
-- 🛠️ Experienced in building and leading Agile teams to develop products from scratch, mentoring and coaching junior developers, and fostering a collaborative environment in global, distributed teams.
+- 🛠️ Experienced in **building and leading** Agile teams to develop products from scratch, **mentoring and coaching** junior developers, and fostering a **collaborative** environment in global, **distributed teams**.
 
 ## 🎯 Current Goals
 - Mastering **full-stack mobile development** for comprehensive end-to-end solutions.
 - Diving deep into **cross-platform and native mobile development strategies**.
-- Actively contributing to **open-source communities** and learning from fellow developers.
+- Actively contributing to **open-source communities** and **learning** from fellow developers.
 
 ## 📸 Creative Interests
 - Avid **photographer and videographer**, capturing stories through the lens.
 - Enjoy blending **technical skills with creativity** in multimedia projects.
-- Love cooking and experimenting with new dishes to share with family.
+- Love **cooking** and experimenting with new dishes to share with family.
 
 ## 📰 Lifelong Learner
 - Passionate about **reading technical articles** and staying updated on industry advancements.
@@ -35,5 +35,5 @@ I am a **Mobile Software Engineer** with over **12 years of experience** in deli
 - 💼 LinkedIn: [linkedin.com/in/crisnguyendev](https://www.linkedin.com/in/crisnguyendev/)
 
 ## ⚡ Fun Fact
-I enjoy mentoring developers, solving complex problems, and exploring new frameworks and tools to build better apps!
+I enjoy mentoring developers, solving complex problems, and exploring new frameworks and tools to **build better apps**!
 
