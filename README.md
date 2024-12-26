@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vu Nguyen
+# Hi there! 👋 I'm Vu Nguyen (Cris)
 
 ## 🚀 About Me
 I am a **Mobile Software Engineer** with over **12 years of experience** in delivering high-performance solutions across industries like **banking, fintech, media, healthcare, and e-commerce**. Passionate about building scalable, secure, and user-centric applications with modern architectures and best practices.
@@ -31,8 +31,8 @@ I am a **Mobile Software Engineer** with over **12 years of experience** in deli
   University of Science VNUHCM, Vietnam
 
 ## 📫 Contact Me
-- 📧 Email: [anhvu2889@gmail.com](mailto:anhvu2889@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/anhvu2889](https://www.linkedin.com/in/anhvu2889/)
+- 📧 Email: [crisnguyendev@gmail.com](mailto:crisnguyendev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/crisnguyendev](https://www.linkedin.com/in/crisnguyendev/)
 
 ## ⚡ Fun Fact
 I enjoy mentoring developers, solving complex problems, and exploring new frameworks and tools to build better apps!
