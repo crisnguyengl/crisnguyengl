@@ -16,6 +16,7 @@ I am a **Senior Mobile Engineer | Technical Architect | Engineering Leader** wit
 - Mastering **full-stack mobile development** for comprehensive end-to-end solutions.
 - Diving deep into **cross-platform and native mobile development strategies**.
 - Actively contributing to **open-source communities** and **learning** from fellow developers.
+- Expanding leadership capabilities by mentoring emerging talent and leading high-performing teams in innovative projects.
 
 ## 📸 Creative Interests
 - Avid **photographer and videographer**, capturing stories through the lens.
