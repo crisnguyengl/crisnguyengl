@@ -1,13 +1,16 @@
 # Hi there! 👋 I'm Vu Nguyen (Cris)
 
 ## 🚀 About Me
-I am a **Mobile Software Engineer** with over **12 years of experience** in delivering high-performance solutions across industries like **banking, fintech, media, healthcare, and e-commerce**. Passionate about building scalable, secure, and user-centric applications with modern architectures and best practices.
+I am a **Senior Mobile Engineer | Technical Architect | Engineering Leader** with over **12 years of experience** in delivering high-performance solutions across industries like **banking, fintech, media, healthcare, and e-commerce**. Passionate about building scalable, secure, and user-centric applications with modern architectures and best practices.
 
 - 💻 Expert in **iOS (Swift)** and **Android (Kotlin, Java)** development.
 - 🌐 Experienced with **web service development** using **RESTful APIs** and backend frameworks like **Spring Boot**.
 - 🌟 Skilled in **Clean Architecture, Modular Architecture**.
 - 🔧 Proficient in **problem-solving, CI/CD, performance optimization, and security**.
-- 🛠️ Experienced in **building and leading** Agile teams to develop products from scratch, **mentoring and coaching** junior developers, and fostering a **collaborative** environment in global, **distributed teams**.
+- 🛠️ Proven leadership in building and leading Agile teams from scratch, managing cross-functional groups, and driving technical excellence.
+- 🚀 Visionary leader with a track record of mentoring and coaching junior developers and fostering a collaborative environment in global, distributed teams.
+- 🤝 Adept at bridging communication between technical and non-technical stakeholders to ensure alignment with business goals and seamless project execution.
+- 🌱 Committed to empowering teams, promoting continuous learning, and driving innovation across projects.
 
 ## 🎯 Current Goals
 - Mastering **full-stack mobile development** for comprehensive end-to-end solutions.
