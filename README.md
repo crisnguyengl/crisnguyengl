@@ -35,8 +35,8 @@ I am a **Senior Mobile Engineer | Technical Architect | Engineering Leader** wit
   University of Science VNUHCM, Vietnam
 
 ## 📫 Contact Me
-- 📧 Email: [crisnguyendev@gmail.com](mailto:crisnguyendev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/crisnguyendev](https://www.linkedin.com/in/crisnguyendev/)
+- 📧 Email: [crisnguyengl@gmail.com](mailto:crisnguyengl@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/crisnguyengl](https://www.linkedin.com/in/crisnguyengl/)
 
 ## ⚡ Fun Fact
 I enjoy mentoring developers, solving complex problems, and exploring new frameworks and tools to **build better apps**!
